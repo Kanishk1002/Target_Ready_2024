@@ -1,5 +1,5 @@
 # Target Ready 2024 Training Program
-Hello I am Vanga Kanishka Nadh
+Hello I am Vanga Kanishka Nadh and 
 Welcome to the Target Ready 2024 Training Program repository!
 
 ## Overview
